@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+    <string name="description_photo">Описание фото</string>
+    <string name="additional_text">Пример дополнительного текста</string>
+    <string name="show_additional_text">Отобразить дополнительный текст</string>
+    <string name="hide_additional_text">Скрыть текст</string>
+</resources>
